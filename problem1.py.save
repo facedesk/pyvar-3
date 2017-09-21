@@ -1,0 +1,7 @@
+print("you will be giving me five numbers and give you your average.")
+number1 = input("enter a number between 1-10:")
+name2 = input("enter a number between 1-10:")
+name3 = input("enter a number between 1-10:")
+name4 = input("enter a number between 1-10:")
+name5 = input("enter a number between 1-10:")
+print("your average is" + name1  + name2 + name3 + name4 + name5 +
