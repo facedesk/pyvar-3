@@ -1,0 +1,5 @@
+person = input("What is your Full name:")
+
+
+
+print("First name" , person + "Middle name" , person + "Last name" , person )
